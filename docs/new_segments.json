@@ -1,0 +1,1113 @@
+[
+  {
+    "id": "SEG_FOL_8_12_001",
+    "name": "Folicular Temprana - Curiosa y Energética - Muy Alta Intensidad",
+    "phase": {
+      "main": "folicular",
+      "subphase": "early",
+      "days": [6, 7, 8, 9],
+      "description": "Primera fase de renovación hormonal, estrógeno comenzando a aumentar"
+    },
+    "age_group": {
+      "range": "8-12",
+      "stage": "pre_menarca",
+      "characteristics": ["desarrollo_pubertad", "curiosidad_natural", "energia_alta", "aprendizaje_acelerado"]
+    },
+    "emotional_profile": {
+      "primary": {
+        "emotion": "curiosity",
+        "intensity": 2,
+        "score": 2.0,
+        "description": "Curiosidad natural sobre cambios corporales y hormonales"
+      },
+      "secondary": {
+        "emotion": "energy",
+        "intensity": 2,
+        "score": 2.0,
+        "description": "Energía física alta, ganas de explorar y aprender"
+      },
+      "conflict": null,
+      "resolution_needed": false
+    },
+    "hormonal_context": {
+      "estrogen": "beginning_increase",
+      "progesterone": "very_low",
+      "cortisol": "low",
+      "optimal_balance": true,
+      "description": "Estrógeno comenzando su ciclo natural, cortisol bajo, energía optimizada"
+    },
+    "content_needs": {
+      "primary": ["educacion_ciclo", "explicaciones_simples", "validacion_cambios"],
+      "secondary": ["actividades_energeticas", "nutricion_crecimiento", "autocuidado_basico"],
+      "avoid": ["informacion_compleja", "presion_rendimiento", "terminologia_medica"]
+    },
+    "presentation_style": {
+      "tone": "amigable_educativo",
+      "structure": "pregunta_respuesta",
+      "length": "corta",
+      "urgency": "baja",
+      "language": "simple_español"
+    }
+  },
+  {
+    "id": "SEG_FOL_8_12_002",
+    "name": "Folicular Temprana - Ansiosa por Cambios - Alta Intensidad",
+    "phase": {
+      "main": "folicular",
+      "subphase": "early",
+      "days": [6, 7, 8, 9]
+    },
+    "age_group": {
+      "range": "8-12",
+      "stage": "pre_menarca"
+    },
+    "emotional_profile": {
+      "primary": {
+        "emotion": "anxiety",
+        "intensity": 1,
+        "score": -1.5,
+        "description": "Ansiedad por cambios corporales y hormonales nuevos"
+      },
+      "secondary": {
+        "emotion": "confusion",
+        "intensity": 1,
+        "score": -1.0,
+        "description": "Confusión sobre qué está pasando en su cuerpo"
+      },
+      "conflict": "anxiety_curiosity_conflict",
+      "resolution_needed": true
+    },
+    "hormonal_context": {
+      "estrogen": "beginning_increase",
+      "progesterone": "very_low",
+      "cortisol": "moderate",
+      "optimal_balance": false
+    },
+    "content_needs": {
+      "primary": ["tranquilizacion", "explicaciones_claras", "normalizacion_cambios"],
+      "secondary": ["tecnicas_calma", "apoyo_emocional", "educacion_paciente"],
+      "avoid": ["informacion_abrumadora", "terminos_tecnicos", "presion_entendimiento"]
+    },
+    "presentation_style": {
+      "tone": "tranquilizador_empatico",
+      "structure": "validacion_explicacion",
+      "length": "corta",
+      "urgency": "moderada"
+    }
+  },
+  {
+    "id": "SEG_FOL_8_12_003",
+    "name": "Folicular Temprana - Sensible y Curiosa - Moderada Intensidad",
+    "phase": {
+      "main": "folicular",
+      "subphase": "early",
+      "days": [6, 7, 8, 9]
+    },
+    "age_group": {
+      "range": "8-12",
+      "stage": "pre_menarca"
+    },
+    "emotional_profile": {
+      "primary": {
+        "emotion": "sensitivity",
+        "intensity": 1,
+        "score": 0.5
+      },
+      "secondary": {
+        "emotion": "curiosity",
+        "intensity": 1,
+        "score": 1.0
+      },
+      "conflict": null,
+      "resolution_needed": false
+    },
+    "hormonal_context": {
+      "estrogen": "beginning_increase",
+      "progesterone": "very_low",
+      "cortisol": "low",
+      "optimal_balance": true
+    },
+    "content_needs": {
+      "primary": ["validacion_sensibilidad", "educacion_empatica", "desarrollo_emocional"],
+      "secondary": ["actividades_suaves", "nutricion_equilibrada", "autocuidado_emocional"],
+      "avoid": ["estimulacion_excesiva", "presion_rendimiento", "critica"]
+    },
+    "presentation_style": {
+      "tone": "empatico_educativo",
+      "structure": "validacion_aprendizaje",
+      "length": "corta",
+      "urgency": "baja"
+    }
+  },
+  {
+    "id": "SEG_FOL_8_12_004",
+    "name": "Folicular Temprana - Confiada y Energética - Alta Intensidad",
+    "phase": {
+      "main": "folicular",
+      "subphase": "early",
+      "days": [6, 7, 8, 9]
+    },
+    "age_group": {
+      "range": "8-12",
+      "stage": "pre_menarca"
+    },
+    "emotional_profile": {
+      "primary": {
+        "emotion": "confidence",
+        "intensity": 1,
+        "score": 1.0
+      },
+      "secondary": {
+        "emotion": "energy",
+        "intensity": 1,
+        "score": 1.0
+      },
+      "conflict": null,
+      "resolution_needed": false
+    },
+    "hormonal_context": {
+      "estrogen": "beginning_increase",
+      "progesterone": "very_low",
+      "cortisol": "low",
+      "optimal_balance": true
+    },
+    "content_needs": {
+      "primary": ["desarrollo_confianza", "aprovechamiento_energia", "liderazgo_natural"],
+      "secondary": ["actividades_grupales", "proyectos_creativos", "desarrollo_habilidades"],
+      "avoid": ["limitaciones", "subestimacion_capacidad", "restricciones"]
+    },
+    "presentation_style": {
+      "tone": "empoderador_animador",
+      "structure": "confianza_oportunidad",
+      "length": "corta",
+      "urgency": "baja"
+    }
+  },
+  {
+    "id": "SEG_FOL_8_12_005",
+    "name": "Folicular Temprana - Triste pero Curiosa - Moderada Intensidad",
+    "phase": {
+      "main": "folicular",
+      "subphase": "early",
+      "days": [6, 7, 8, 9]
+    },
+    "age_group": {
+      "range": "8-12",
+      "stage": "pre_menarca"
+    },
+    "emotional_profile": {
+      "primary": {
+        "emotion": "sadness",
+        "intensity": 1,
+        "score": -1.0
+      },
+      "secondary": {
+        "emotion": "curiosity",
+        "intensity": 1,
+        "score": 1.0
+      },
+      "conflict": "sadness_curiosity_conflict",
+      "resolution_needed": true
+    },
+    "hormonal_context": {
+      "estrogen": "beginning_increase",
+      "progesterone": "very_low",
+      "cortisol": "moderate",
+      "optimal_balance": false
+    },
+    "content_needs": {
+      "primary": ["apoyo_emocional", "validacion_tristeza", "despertar_curiosidad"],
+      "secondary": ["actividades_suaves", "nutricion_animo", "conexion_emocional"],
+      "avoid": ["presion_alegria", "minimizacion_emociones", "estimulacion_excesiva"]
+    },
+    "presentation_style": {
+      "tone": "empatico_animador",
+      "structure": "validacion_esperanza",
+      "length": "corta",
+      "urgency": "moderada"
+    }
+  },
+  {
+    "id": "SEG_FOL_8_12_006",
+    "name": "Folicular Media - Energética y Creativa - Muy Alta Intensidad",
+    "phase": {
+      "main": "folicular",
+      "subphase": "middle",
+      "days": [10, 11, 12, 13],
+      "description": "Estrógeno en niveles medios, energía y creatividad aumentando"
+    },
+    "age_group": {
+      "range": "8-12",
+      "stage": "pre_menarca"
+    },
+    "emotional_profile": {
+      "primary": {
+        "emotion": "energy",
+        "intensity": 2,
+        "score": 2.0
+      },
+      "secondary": {
+        "emotion": "creativity",
+        "intensity": 2,
+        "score": 2.0
+      },
+      "conflict": null,
+      "resolution_needed": false
+    },
+    "hormonal_context": {
+      "estrogen": "medium",
+      "progesterone": "low",
+      "cortisol": "low",
+      "optimal_balance": true
+    },
+    "content_needs": {
+      "primary": ["actividades_creativas", "expresion_artistica", "aprendizaje_creativo"],
+      "secondary": ["ejercicio_energetico", "nutricion_creativa", "desarrollo_talento"],
+      "avoid": ["restricciones_creativas", "presion_rendimiento", "limitaciones_imaginacion"]
+    },
+    "presentation_style": {
+      "tone": "inspirador_creativo",
+      "structure": "inspiracion_accion",
+      "length": "corta",
+      "urgency": "baja"
+    }
+  },
+  {
+    "id": "SEG_FOL_8_12_007",
+    "name": "Folicular Media - Confiada y Social - Alta Intensidad",
+    "phase": {
+      "main": "folicular",
+      "subphase": "middle",
+      "days": [10, 11, 12, 13]
+    },
+    "age_group": {
+      "range": "8-12",
+      "stage": "pre_menarca"
+    },
+    "emotional_profile": {
+      "primary": {
+        "emotion": "confidence",
+        "intensity": 1,
+        "score": 1.0
+      },
+      "secondary": {
+        "emotion": "social_connection",
+        "intensity": 1,
+        "score": 1.0
+      },
+      "conflict": null,
+      "resolution_needed": false
+    },
+    "hormonal_context": {
+      "estrogen": "medium",
+      "progesterone": "low",
+      "cortisol": "low",
+      "optimal_balance": true
+    },
+    "content_needs": {
+      "primary": ["desarrollo_social", "aprovechamiento_confianza", "liderazgo_grupo"],
+      "secondary": ["actividades_grupales", "desarrollo_habilidades_sociales", "proyectos_colaborativos"],
+      "avoid": ["aislamiento", "perdida_oportunidades", "subestimacion_capacidad"]
+    },
+    "presentation_style": {
+      "tone": "empoderador_social",
+      "structure": "confianza_conexion",
+      "length": "corta",
+      "urgency": "baja"
+    }
+  },
+  {
+    "id": "SEG_FOL_8_12_008",
+    "name": "Folicular Media - Sensible y Energética - Moderada Intensidad",
+    "phase": {
+      "main": "folicular",
+      "subphase": "middle",
+      "days": [10, 11, 12, 13]
+    },
+    "age_group": {
+      "range": "8-12",
+      "stage": "pre_menarca"
+    },
+    "emotional_profile": {
+      "primary": {
+        "emotion": "sensitivity",
+        "intensity": 1,
+        "score": 0.5
+      },
+      "secondary": {
+        "emotion": "energy",
+        "intensity": 1,
+        "score": 1.0
+      },
+      "conflict": null,
+      "resolution_needed": false
+    },
+    "hormonal_context": {
+      "estrogen": "medium",
+      "progesterone": "low",
+      "cortisol": "low",
+      "optimal_balance": true
+    },
+    "content_needs": {
+      "primary": ["validacion_sensibilidad", "aprovechamiento_energia", "balance_emocional"],
+      "secondary": ["actividades_suaves", "nutricion_equilibrada", "desarrollo_emocional"],
+      "avoid": ["estimulacion_excesiva", "presion_rendimiento", "critica"]
+    },
+    "presentation_style": {
+      "tone": "validador_animador",
+      "structure": "sensibilidad_energia",
+      "length": "corta",
+      "urgency": "baja"
+    }
+  },
+  {
+    "id": "SEG_FOL_8_12_009",
+    "name": "Folicular Media - Ansiosa pero Creativa - Moderada Intensidad",
+    "phase": {
+      "main": "folicular",
+      "subphase": "middle",
+      "days": [10, 11, 12, 13]
+    },
+    "age_group": {
+      "range": "8-12",
+      "stage": "pre_menarca"
+    },
+    "emotional_profile": {
+      "primary": {
+        "emotion": "anxiety",
+        "intensity": 1,
+        "score": -1.0
+      },
+      "secondary": {
+        "emotion": "creativity",
+        "intensity": 1,
+        "score": 1.0
+      },
+      "conflict": "anxiety_creativity_conflict",
+      "resolution_needed": true
+    },
+    "hormonal_context": {
+      "estrogen": "medium",
+      "progesterone": "low",
+      "cortisol": "moderate",
+      "optimal_balance": false
+    },
+    "content_needs": {
+      "primary": ["manejo_ansiedad", "desarrollo_creatividad", "balance_emocional"],
+      "secondary": ["tecnicas_calma", "expresion_artistica", "nutricion_estabilizadora"],
+      "avoid": ["presion_rendimiento", "estimulacion_excesiva", "critica"]
+    },
+    "presentation_style": {
+      "tone": "calmante_creativo",
+      "structure": "tranquilidad_creatividad",
+      "length": "corta",
+      "urgency": "moderada"
+    }
+  },
+  {
+    "id": "SEG_FOL_8_12_010",
+    "name": "Folicular Media - Melancólica pero Energética - Moderada Intensidad",
+    "phase": {
+      "main": "folicular",
+      "subphase": "middle",
+      "days": [10, 11, 12, 13]
+    },
+    "age_group": {
+      "range": "8-12",
+      "stage": "pre_menarca"
+    },
+    "emotional_profile": {
+      "primary": {
+        "emotion": "melancholy",
+        "intensity": 1,
+        "score": -1.0
+      },
+      "secondary": {
+        "emotion": "energy",
+        "intensity": 1,
+        "score": 1.0
+      },
+      "conflict": "melancholy_energy_conflict",
+      "resolution_needed": true
+    },
+    "hormonal_context": {
+      "estrogen": "medium",
+      "progesterone": "low",
+      "cortisol": "moderate",
+      "optimal_balance": false
+    },
+    "content_needs": {
+      "primary": ["validacion_melancolia", "aprovechamiento_energia", "balance_emocional"],
+      "secondary": ["actividades_suaves", "nutricion_animo", "conexion_emocional"],
+      "avoid": ["presion_alegria", "minimizacion_emociones", "estimulacion_excesiva"]
+    },
+    "presentation_style": {
+      "tone": "validador_animador",
+      "structure": "validacion_oportunidad",
+      "length": "corta",
+      "urgency": "moderada"
+    }
+  },
+  {
+    "id": "SEG_FOL_13_19_001",
+    "name": "Folicular Temprana - Energética y Social - Muy Alta Intensidad",
+    "phase": {
+      "main": "folicular",
+      "subphase": "early",
+      "days": [6, 7, 8, 9]
+    },
+    "age_group": {
+      "range": "13-19",
+      "stage": "adolescente",
+      "characteristics": ["ciclo_estableciendose", "energia_social_alta", "buscando_identidad", "influencia_grupo"]
+    },
+    "emotional_profile": {
+      "primary": {
+        "emotion": "energy",
+        "intensity": 2,
+        "score": 2.0
+      },
+      "secondary": {
+        "emotion": "social_connection",
+        "intensity": 2,
+        "score": 2.0
+      },
+      "conflict": null,
+      "resolution_needed": false
+    },
+    "hormonal_context": {
+      "estrogen": "increasing",
+      "progesterone": "low",
+      "cortisol": "low",
+      "optimal_balance": true
+    },
+    "content_needs": {
+      "primary": ["aprovechamiento_energia", "actividades_sociales", "proyectos_nuevos"],
+      "secondary": ["nutricion_energetica", "ejercicio_moderado", "desarrollo_habilidades"],
+      "avoid": ["limitaciones", "precauciones_excesivas", "restricciones_sociales"]
+    },
+    "presentation_style": {
+      "tone": "motivacional_energico",
+      "structure": "oportunidad_accion",
+      "length": "media",
+      "urgency": "baja"
+    }
+  },
+  {
+    "id": "SEG_FOL_13_19_002",
+    "name": "Folicular Temprana - Insegura pero Curiosa - Moderada Intensidad",
+    "phase": {
+      "main": "folicular",
+      "subphase": "early",
+      "days": [6, 7, 8, 9]
+    },
+    "age_group": {
+      "range": "13-19",
+      "stage": "adolescente"
+    },
+    "emotional_profile": {
+      "primary": {
+        "emotion": "insecurity",
+        "intensity": 1,
+        "score": -1.0
+      },
+      "secondary": {
+        "emotion": "curiosity",
+        "intensity": 1,
+        "score": 1.0
+      },
+      "conflict": "insecurity_curiosity_conflict",
+      "resolution_needed": true
+    },
+    "hormonal_context": {
+      "estrogen": "increasing",
+      "progesterone": "low",
+      "cortisol": "moderate",
+      "optimal_balance": false
+    },
+    "content_needs": {
+      "primary": ["construccion_confianza", "educacion_empoderadora", "validacion_experiencia"],
+      "secondary": ["tecnicas_autocuidado", "apoyo_emocional", "desarrollo_habilidades"],
+      "avoid": ["presion_rendimiento", "comparaciones", "expectativas_altas"]
+    },
+    "presentation_style": {
+      "tone": "empoderador_empatico",
+      "structure": "validacion_crecimiento",
+      "length": "media",
+      "urgency": "baja"
+    }
+  },
+  {
+    "id": "SEG_FOL_13_19_003",
+    "name": "Folicular Temprana - Ansiosa y Energética - Alta Intensidad",
+    "phase": {
+      "main": "folicular",
+      "subphase": "early",
+      "days": [6, 7, 8, 9]
+    },
+    "age_group": {
+      "range": "13-19",
+      "stage": "adolescente"
+    },
+    "emotional_profile": {
+      "primary": {
+        "emotion": "anxiety",
+        "intensity": 1,
+        "score": -1.5
+      },
+      "secondary": {
+        "emotion": "energy",
+        "intensity": 1,
+        "score": 1.0
+      },
+      "conflict": "anxiety_energy_conflict",
+      "resolution_needed": true
+    },
+    "hormonal_context": {
+      "estrogen": "increasing",
+      "progesterone": "low",
+      "cortisol": "moderate",
+      "optimal_balance": false
+    },
+    "content_needs": {
+      "primary": ["manejo_ansiedad", "aprovechamiento_energia", "balance_emocional"],
+      "secondary": ["tecnicas_respiracion", "ejercicio_moderado", "nutricion_estabilizadora"],
+      "avoid": ["presion_adicional", "estimulacion_excesiva", "informacion_abrumadora"]
+    },
+    "presentation_style": {
+      "tone": "calmante_animador",
+      "structure": "balance_emocional",
+      "length": "media",
+      "urgency": "moderada"
+    }
+  },
+  {
+    "id": "SEG_FOL_13_19_004",
+    "name": "Folicular Temprana - Confiada y Creativa - Alta Intensidad",
+    "phase": {
+      "main": "folicular",
+      "subphase": "early",
+      "days": [6, 7, 8, 9]
+    },
+    "age_group": {
+      "range": "13-19",
+      "stage": "adolescente"
+    },
+    "emotional_profile": {
+      "primary": {
+        "emotion": "confidence",
+        "intensity": 1,
+        "score": 1.0
+      },
+      "secondary": {
+        "emotion": "creativity",
+        "intensity": 1,
+        "score": 1.0
+      },
+      "conflict": null,
+      "resolution_needed": false
+    },
+    "hormonal_context": {
+      "estrogen": "increasing",
+      "progesterone": "low",
+      "cortisol": "low",
+      "optimal_balance": true
+    },
+    "content_needs": {
+      "primary": ["desarrollo_creatividad", "aprovechamiento_confianza", "proyectos_artisticos"],
+      "secondary": ["expresion_artistica", "desarrollo_talento", "liderazgo_creativo"],
+      "avoid": ["limitaciones", "critica", "restricciones_creativas"]
+    },
+    "presentation_style": {
+      "tone": "empoderador_creativo",
+      "structure": "confianza_creatividad",
+      "length": "media",
+      "urgency": "baja"
+    }
+  },
+  {
+    "id": "SEG_FOL_13_19_005",
+    "name": "Folicular Temprana - Melancólica pero Energética - Moderada Intensidad",
+    "phase": {
+      "main": "folicular",
+      "subphase": "early",
+      "days": [6, 7, 8, 9]
+    },
+    "age_group": {
+      "range": "13-19",
+      "stage": "adolescente"
+    },
+    "emotional_profile": {
+      "primary": {
+        "emotion": "melancholy",
+        "intensity": 1,
+        "score": -1.0
+      },
+      "secondary": {
+        "emotion": "energy",
+        "intensity": 1,
+        "score": 1.0
+      },
+      "conflict": "melancholy_energy_conflict",
+      "resolution_needed": true
+    },
+    "hormonal_context": {
+      "estrogen": "increasing",
+      "progesterone": "low",
+      "cortisol": "moderate",
+      "optimal_balance": false
+    },
+    "content_needs": {
+      "primary": ["validacion_melancolia", "aprovechamiento_energia", "balance_emocional"],
+      "secondary": ["actividades_suaves", "nutricion_animo", "conexion_emocional"],
+      "avoid": ["presion_alegria", "minimizacion_emociones", "estimulacion_excesiva"]
+    },
+    "presentation_style": {
+      "tone": "validador_animador",
+      "structure": "validacion_oportunidad",
+      "length": "media",
+      "urgency": "baja"
+    }
+  },
+  {
+    "id": "SEG_FOL_13_19_006",
+    "name": "Folicular Media - Confiada y Social - Muy Alta Intensidad",
+    "phase": {
+      "main": "folicular",
+      "subphase": "middle",
+      "days": [10, 11, 12, 13]
+    },
+    "age_group": {
+      "range": "13-19",
+      "stage": "adolescente"
+    },
+    "emotional_profile": {
+      "primary": {
+        "emotion": "confidence",
+        "intensity": 2,
+        "score": 2.0
+      },
+      "secondary": {
+        "emotion": "social_connection",
+        "intensity": 2,
+        "score": 2.0
+      },
+      "conflict": null,
+      "resolution_needed": false
+    },
+    "hormonal_context": {
+      "estrogen": "medium",
+      "progesterone": "low",
+      "cortisol": "low",
+      "optimal_balance": true
+    },
+    "content_needs": {
+      "primary": ["aprovechamiento_confianza", "actividades_sociales", "liderazgo_grupo"],
+      "secondary": ["desarrollo_habilidades_sociales", "proyectos_colaborativos", "networking"],
+      "avoid": ["aislamiento", "perdida_oportunidades", "subestimacion_capacidad"]
+    },
+    "presentation_style": {
+      "tone": "empoderador_social",
+      "structure": "confianza_oportunidad",
+      "length": "media",
+      "urgency": "baja"
+    }
+  },
+  {
+    "id": "SEG_FOL_13_19_007",
+    "name": "Folicular Media - Energética y Productiva - Muy Alta Intensidad",
+    "phase": {
+      "main": "folicular",
+      "subphase": "middle",
+      "days": [10, 11, 12, 13]
+    },
+    "age_group": {
+      "range": "13-19",
+      "stage": "adolescente"
+    },
+    "emotional_profile": {
+      "primary": {
+        "emotion": "energy",
+        "intensity": 2,
+        "score": 2.0
+      },
+      "secondary": {
+        "emotion": "productivity",
+        "intensity": 2,
+        "score": 2.0
+      },
+      "conflict": null,
+      "resolution_needed": false
+    },
+    "hormonal_context": {
+      "estrogen": "medium",
+      "progesterone": "low",
+      "cortisol": "low",
+      "optimal_balance": true
+    },
+    "content_needs": {
+      "primary": ["maximizacion_productividad", "aprovechamiento_energia", "proyectos_importantes"],
+      "secondary": ["desarrollo_habilidades", "planificacion", "liderazgo"],
+      "avoid": ["perdida_momento", "distracciones", "subestimacion_capacidad"]
+    },
+    "presentation_style": {
+      "tone": "motivacional_enfocado",
+      "structure": "energia_productividad",
+      "length": "media",
+      "urgency": "baja"
+    }
+  },
+  {
+    "id": "SEG_FOL_13_19_008",
+    "name": "Folicular Media - Sensible y Reflexiva - Moderada Intensidad",
+    "phase": {
+      "main": "folicular",
+      "subphase": "middle",
+      "days": [10, 11, 12, 13]
+    },
+    "age_group": {
+      "range": "13-19",
+      "stage": "adolescente"
+    },
+    "emotional_profile": {
+      "primary": {
+        "emotion": "sensitivity",
+        "intensity": 1,
+        "score": 0.5
+      },
+      "secondary": {
+        "emotion": "reflection",
+        "intensity": 1,
+        "score": 1.0
+      },
+      "conflict": null,
+      "resolution_needed": false
+    },
+    "hormonal_context": {
+      "estrogen": "medium",
+      "progesterone": "low",
+      "cortisol": "low",
+      "optimal_balance": true
+    },
+    "content_needs": {
+      "primary": ["reflexion_personal", "validacion_sensibilidad", "desarrollo_introspectivo"],
+      "secondary": ["diario_personal", "meditacion", "autoconocimiento"],
+      "avoid": ["presion_social", "actividades_estimulantes", "critica"]
+    },
+    "presentation_style": {
+      "tone": "validador_reflexivo",
+      "structure": "sensibilidad_reflexion",
+      "length": "media",
+      "urgency": "baja"
+    }
+  },
+  {
+    "id": "SEG_FOL_13_19_009",
+    "name": "Folicular Media - Ansiosa pero Adaptativa - Moderada Intensidad",
+    "phase": {
+      "main": "folicular",
+      "subphase": "middle",
+      "days": [10, 11, 12, 13]
+    },
+    "age_group": {
+      "range": "13-19",
+      "stage": "adolescente"
+    },
+    "emotional_profile": {
+      "primary": {
+        "emotion": "anxiety",
+        "intensity": 1,
+        "score": -1.0
+      },
+      "secondary": {
+        "emotion": "adaptability",
+        "intensity": 1,
+        "score": 1.0
+      },
+      "conflict": "anxiety_adaptability_conflict",
+      "resolution_needed": true
+    },
+    "hormonal_context": {
+      "estrogen": "medium",
+      "progesterone": "low",
+      "cortisol": "moderate",
+      "optimal_balance": false
+    },
+    "content_needs": {
+      "primary": ["manejo_ansiedad", "desarrollo_adaptabilidad", "balance_emocional"],
+      "secondary": ["tecnicas_calma", "estrategias_coping", "nutricion_estabilizadora"],
+      "avoid": ["presion_rendimiento", "estimulacion_excesiva", "critica"]
+    },
+    "presentation_style": {
+      "tone": "calmante_adaptativo",
+      "structure": "tranquilidad_adaptacion",
+      "length": "media",
+      "urgency": "moderada"
+    }
+  },
+  {
+    "id": "SEG_FOL_13_19_010",
+    "name": "Folicular Media - Melancólica pero Social - Moderada Intensidad",
+    "phase": {
+      "main": "folicular",
+      "subphase": "middle",
+      "days": [10, 11, 12, 13]
+    },
+    "age_group": {
+      "range": "13-19",
+      "stage": "adolescente"
+    },
+    "emotional_profile": {
+      "primary": {
+        "emotion": "melancholy",
+        "intensity": 1,
+        "score": -1.0
+      },
+      "secondary": {
+        "emotion": "social_connection",
+        "intensity": 1,
+        "score": 1.0
+      },
+      "conflict": "melancholy_social_conflict",
+      "resolution_needed": true
+    },
+    "hormonal_context": {
+      "estrogen": "medium",
+      "progesterone": "low",
+      "cortisol": "moderate",
+      "optimal_balance": false
+    },
+    "content_needs": {
+      "primary": ["validacion_melancolia", "aprovechamiento_social", "balance_emocional"],
+      "secondary": ["actividades_grupales_suaves", "nutricion_animo", "conexion_emocional"],
+      "avoid": ["presion_alegria", "minimizacion_emociones", "aislamiento"]
+    },
+    "presentation_style": {
+      "tone": "validador_social",
+      "structure": "validacion_conexion",
+      "length": "media",
+      "urgency": "baja"
+    }
+  },
+  {
+    "id": "SEG_FOL_20_29_001",
+    "name": "Folicular Temprana - Ansiosa pero Energética - Alta Intensidad",
+    "phase": {
+      "main": "folicular",
+      "subphase": "early",
+      "days": [6, 7, 8, 9]
+    },
+    "age_group": {
+      "range": "20-29",
+      "stage": "reproductiva_temprana",
+      "characteristics": ["ciclo_estable", "responsabilidades_adultas", "buscando_equilibrio", "presion_social"]
+    },
+    "emotional_profile": {
+      "primary": {
+        "emotion": "anxiety",
+        "intensity": 1,
+        "score": -1.5
+      },
+      "secondary": {
+        "emotion": "energy",
+        "intensity": 1,
+        "score": 1.0
+      },
+      "conflict": "anxiety_energy_conflict",
+      "resolution_needed": true
+    },
+    "hormonal_context": {
+      "estrogen": "increasing",
+      "progesterone": "low",
+      "cortisol": "moderate",
+      "optimal_balance": false
+    },
+    "content_needs": {
+      "primary": ["manejo_ansiedad", "aprovechamiento_energia", "balance_hormonal"],
+      "secondary": ["tecnicas_respiracion", "ejercicio_moderado", "nutricion_estabilizadora"],
+      "avoid": ["presion_adicional", "optimizacion_excesiva", "informacion_abrumadora"]
+    },
+    "presentation_style": {
+      "tone": "calmante_animador",
+      "structure": "problema_solucion",
+      "length": "media",
+      "urgency": "moderada"
+    }
+  },
+  {
+    "id": "SEG_FOL_20_29_002",
+    "name": "Folicular Temprana - Confiada y Productiva - Muy Alta Intensidad",
+    "phase": {
+      "main": "folicular",
+      "subphase": "early",
+      "days": [6, 7, 8, 9]
+    },
+    "age_group": {
+      "range": "20-29",
+      "stage": "reproductiva_temprana"
+    },
+    "emotional_profile": {
+      "primary": {
+        "emotion": "confidence",
+        "intensity": 2,
+        "score": 2.0
+      },
+      "secondary": {
+        "emotion": "productivity",
+        "intensity": 2,
+        "score": 2.0
+      },
+      "conflict": null,
+      "resolution_needed": false
+    },
+    "hormonal_context": {
+      "estrogen": "increasing",
+      "progesterone": "low",
+      "cortisol": "low",
+      "optimal_balance": true
+    },
+    "content_needs": {
+      "primary": ["optimizacion_productividad", "aprovechamiento_confianza", "proyectos_nuevos"],
+      "secondary": ["desarrollo_habilidades", "networking", "planificacion_futuro"],
+      "avoid": ["limitaciones", "precauciones_excesivas", "restricciones"]
+    },
+    "presentation_style": {
+      "tone": "motivacional_optimista",
+      "structure": "oportunidad_accion",
+      "length": "media",
+      "urgency": "baja"
+    }
+  },
+  {
+    "id": "SEG_FOL_20_29_003",
+    "name": "Folicular Temprana - Estresada pero Resiliente - Alta Intensidad",
+    "phase": {
+      "main": "folicular",
+      "subphase": "early",
+      "days": [6, 7, 8, 9]
+    },
+    "age_group": {
+      "range": "20-29",
+      "stage": "reproductiva_temprana"
+    },
+    "emotional_profile": {
+      "primary": {
+        "emotion": "stress",
+        "intensity": 1,
+        "score": -1.5
+      },
+      "secondary": {
+        "emotion": "resilience",
+        "intensity": 1,
+        "score": 1.0
+      },
+      "conflict": "stress_resilience_conflict",
+      "resolution_needed": true
+    },
+    "hormonal_context": {
+      "estrogen": "increasing",
+      "progesterone": "low",
+      "cortisol": "high",
+      "optimal_balance": false
+    },
+    "content_needs": {
+      "primary": ["manejo_estres", "aprovechamiento_resiliencia", "balance_cortisol"],
+      "secondary": ["tecnicas_autocuidado", "nutricion_estabilizadora", "ejercicio_adaptativo"],
+      "avoid": ["presion_adicional", "expectativas_altas", "comparaciones"]
+    },
+    "presentation_style": {
+      "tone": "validador_empoderador",
+      "structure": "reconocimiento_estrategia",
+      "length": "media",
+      "urgency": "moderada"
+    }
+  },
+  {
+    "id": "SEG_FOL_20_29_004",
+    "name": "Folicular Temprana - Energética y Social - Muy Alta Intensidad",
+    "phase": {
+      "main": "folicular",
+      "subphase": "early",
+      "days": [6, 7, 8, 9]
+    },
+    "age_group": {
+      "range": "20-29",
+      "stage": "reproductiva_temprana"
+    },
+    "emotional_profile": {
+      "primary": {
+        "emotion": "energy",
+        "intensity": 2,
+        "score": 2.0
+      },
+      "secondary": {
+        "emotion": "social_connection",
+        "intensity": 2,
+        "score": 2.0
+      },
+      "conflict": null,
+      "resolution_needed": false
+    },
+    "hormonal_context": {
+      "estrogen": "increasing",
+      "progesterone": "low",
+      "cortisol": "low",
+      "optimal_balance": true
+    },
+    "content_needs": {
+      "primary": ["aprovechamiento_energia", "actividades_sociales", "networking"],
+      "secondary": ["proyectos_colaborativos", "desarrollo_relaciones", "liderazgo_grupo"],
+      "avoid": ["aislamiento", "perdida_oportunidades", "subestimacion_capacidad"]
+    },
+    "presentation_style": {
+      "tone": "motivacional_social",
+      "structure": "energia_conexion",
+      "length": "media",
+      "urgency": "baja"
+    }
+  },
+  {
+    "id": "SEG_FOL_20_29_005",
+    "name": "Folicular Temprana - Insegura pero Energética - Moderada Intensidad",
+    "phase": {
+      "main": "folicular",
+      "subphase": "early",
+      "days": [6, 7, 8, 9]
+    },
+    "age_group": {
+      "range": "20-29",
+      "stage": "reproductiva_temprana"
+    },
+    "emotional_profile": {
+      "primary": {
+        "emotion": "insecurity",
+        "intensity": 1,
+        "score": -1.0
+      },
+      "secondary": {
+        "emotion": "energy",
+        "intensity": 1,
+        "score": 1.0
+      },
+      "conflict": "insecurity_energy_conflict",
+      "resolution_needed": true
+    },
+    "hormonal_context": {
+      "estrogen": "increasing",
+      "progesterone": "low",
+      "cortisol": "moderate",
+      "optimal_balance": false
+    },
+    "content_needs": {
+      "primary": ["construccion_confianza", "aprovechamiento_energia", "desarrollo_autoestima"],
+      "secondary": ["tecnicas_autocuidado", "proyectos_moderados", "apoyo_emocional"],
+      "avoid": ["presion_rendimiento", "comparaciones", "expectativas_altas"]
+    },
+    "presentation_style": {
+      "tone": "empoderador_animador",
+      "structure": "confianza_energia",
+      "length": "media",
+      "urgency": "baja"
+    }
+  }
+]

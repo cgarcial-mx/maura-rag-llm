@@ -1,0 +1,162 @@
+[
+  {
+    "id": "SEG001",
+    "name": "Folicular Estresada",
+    "phase": "folicular",
+    "category": "Ansiedad / Estrés",
+    "operator": "<=",
+    "threshold": -1
+  },
+  {
+    "id": "SEG002",
+    "name": "Folicular Triste",
+    "phase": "folicular",
+    "category": "Ánimo",
+    "operator": "<=",
+    "threshold": -1
+  },
+  {
+    "id": "SEG003",
+    "name": "Folicular Energética",
+    "phase": "folicular",
+    "category": "Energía Física",
+    "operator": ">=",
+    "threshold": 1
+  },
+  {
+    "id": "SEG004",
+    "name": "Folicular Insegura",
+    "phase": "folicular",
+    "category": "Autoestima",
+    "operator": "<=",
+    "threshold": -1
+  },
+  {
+    "id": "SEG005",
+    "name": "Folicular Aislada",
+    "phase": "folicular",
+    "category": "Relacional",
+    "operator": "<=",
+    "threshold": -1
+  },
+  {
+    "id": "SEG006",
+    "name": "Ovulatoria Estresada",
+    "phase": "ovulatory",
+    "category": "Ansiedad / Estrés",
+    "operator": "<=",
+    "threshold": -1
+  },
+  {
+    "id": "SEG007",
+    "name": "Ovulatoria Melancólica",
+    "phase": "ovulatory",
+    "category": "Ánimo",
+    "operator": "<=",
+    "threshold": -1
+  },
+  {
+    "id": "SEG008",
+    "name": "Ovulatoria Energética",
+    "phase": "ovulatory",
+    "category": "Energía Física",
+    "operator": ">=",
+    "threshold": 1
+  },
+  {
+    "id": "SEG009",
+    "name": "Ovulatoria Insegura",
+    "phase": "ovulatory",
+    "category": "Autoestima",
+    "operator": "<=",
+    "threshold": -1
+  },
+  {
+    "id": "SEG010",
+    "name": "Ovulatoria Conectada",
+    "phase": "ovulatory",
+    "category": "Relacional",
+    "operator": ">=",
+    "threshold": 1
+  },
+  {
+    "id": "SEG011",
+    "name": "Lútea Ansiosa",
+    "phase": "luteal",
+    "category": "Ansiedad / Estrés",
+    "operator": "<=",
+    "threshold": -1
+  },
+  {
+    "id": "SEG012",
+    "name": "Lútea Decaída",
+    "phase": "luteal",
+    "category": "Ánimo",
+    "operator": "<=",
+    "threshold": -1
+  },
+  {
+    "id": "SEG013",
+    "name": "Lútea Activa",
+    "phase": "luteal",
+    "category": "Energía Física",
+    "operator": ">=",
+    "threshold": 1
+  },
+  {
+    "id": "SEG014",
+    "name": "Lútea Sensible",
+    "phase": "luteal",
+    "category": "Autoestima",
+    "operator": "<=",
+    "threshold": -1
+  },
+  {
+    "id": "SEG015",
+    "name": "Lútea Solitaria",
+    "phase": "luteal",
+    "category": "Relacional",
+    "operator": "<=",
+    "threshold": -1
+  },
+  {
+    "id": "SEG016",
+    "name": "Menstrual Irritable",
+    "phase": "menstrual",
+    "category": "Ansiedad / Estrés",
+    "operator": "<=",
+    "threshold": -1
+  },
+  {
+    "id": "SEG017",
+    "name": "Menstrual Melancólica",
+    "phase": "menstrual",
+    "category": "Ánimo",
+    "operator": "<=",
+    "threshold": -1
+  },
+  {
+    "id": "SEG018",
+    "name": "Menstrual Resiliente",
+    "phase": "menstrual",
+    "category": "Energía Física",
+    "operator": ">=",
+    "threshold": 1
+  },
+  {
+    "id": "SEG019",
+    "name": "Menstrual Vulnerable",
+    "phase": "menstrual",
+    "category": "Autoestima",
+    "operator": "<=",
+    "threshold": -1
+  },
+  {
+    "id": "SEG020",
+    "name": "Menstrual Replegada",
+    "phase": "menstrual",
+    "category": "Relacional",
+    "operator": "<=",
+    "threshold": -1
+  }
+]
